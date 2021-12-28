@@ -10,7 +10,6 @@
 4. Hit cmd `node start` to run this project at localhost server at http://localhost:3000
 
 ### You can also see this app online with just a single click
-visit to `<a href="https://meme-generator-by-aman.netlify.app/">Click here</a>`
- 
+https://meme-generator-by-aman.netlify.app/
 #### Output
 ![output](output.png)
